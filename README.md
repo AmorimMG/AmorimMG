@@ -3,7 +3,7 @@
 
 ### About me
 <div style="display: inline_block"  >
-<img src="https://lanyard.kyrie25.me/api/257165295427256320?idleMessage=Provavelmente%20Trabalhando...&borderRadius=30px&imgStyle=square" align="right"/>
+<img src="https://lanyard.cnrad.dev/api/257165295427256320?idleMessage=Provavelmente%20Trabalhando...&borderRadius=30px&imgStyle=square" align="right"/>
   
 <p> - 👨‍💻 Systems Analyst at Meta3 Services & Technologies. </p>
 <p> - 👨‍🎓 Software Engineering Student at FIAP</p>
