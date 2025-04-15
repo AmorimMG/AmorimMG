@@ -1,9 +1,10 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=8100F7&lines=Hello%2C+my+name+is+Gabriel+Amorim!+)](https://git.io/typing-svg)</h2>
+<h2 align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?color=8100F7&lines=Hello%2C+my+name+is+Gabriel+Amorim!" alt="Typing SVG" />
+</h2>
 
-
-### About me
+### 👋 About Me
 <div style="display: inline_block"  >
-<img src="https://lanyard.cnrad.dev/api/257165295427256320?idleMessage=Provavelmente%20Trabalhando...&borderRadius=30px&imgStyle=square" align="right"/>
+<img src="https://lanyard.cnrad.dev/api/257165295427256320?idleMessage=Provavelmente%20Trabalhando...&borderRadius=30px&imgStyle=square" align="right"  width="300"/>
   
 <p> - 👨‍💻 Systems Analyst at Meta3 Services & Technologies. </p>
 <p> - 👨‍🎓 Software Engineering Student at FIAP</p>
