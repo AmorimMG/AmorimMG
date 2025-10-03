@@ -37,8 +37,8 @@
 <p align="center"> 
 
 <h3>  Profile visit count :detective: </h3> <br>
- <p align="center"> 
-   <img alingn="center" src="https://profile-counter.glitch.me/AmorimMG/count.svg" />
+ <p align="center">
+   <img alingn="center" src="https://komarev.com/ghpvc/?username=AmorimMG&color=blueviolet" />
  </p>
 
 
