@@ -9,7 +9,6 @@
 <p> - 👨‍💻 Systems Analyst at Meta3 Services & Technologies. </p>
 <p> - 👨‍🎓 Software Engineering Student at FIAP</p>
 <p> - 🎯 Interests: Full Stack Development </p>
-<p> - 🦊 I use Arch BTW</p>
   
 </div>
 
